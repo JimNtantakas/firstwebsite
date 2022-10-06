@@ -1,0 +1,55 @@
+
+body{
+padding-top:200px;
+background-image:url(starss.webp);
+background-size:cover;
+text-align:center;
+}
+
+
+
+
+
+
+
+
+button{
+margin-right:10px;
+border:none;
+border-radius:5px;
+background-color:rgb(191, 249, 75);
+width:150px;
+font-weight:bold;
+color:purple;
+padding-right:3px;
+padding-top:10px;
+padding-left:3px;
+padding-bottom:10px;
+
+}
+
+h1{
+color:red;
+
+}
+
+h2{
+color:rgb(227, 45, 45);
+padding-top:20px;
+padding-bottom:20px;
+}
+
+
+
+button:hover{
+    color:rgb(241, 74, 32);
+    transition:0.3s;
+}
+
+button:active{
+border-radius:10px;
+width:170px;  
+transition:0.1s;
+}
+
+
